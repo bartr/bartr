@@ -6,6 +6,8 @@ CSE helps Microsoft's largest customers with all things Azure.
 
 My current focus is Kubernetes and cloud native application development.
 
+I'm active in the Austin Startup community. I'm a Partner at [Capital Factory](https://bartr.co/cf) and on the board of directors at [Still Austin Whiskey Co](https://bartr.co/still).  I was an early investor in [Recursion Pharmaceuticals](https://bartr.co/rxrx) and am celebrating their recent [IPO](https://bartr.co/rxrx-ipo)!
+
 ### Current Projects
 
 - [Using](https://bartr.co/blog/fb-cri) Fluent Bit with `containerd` and `CRI-O`
@@ -19,6 +21,10 @@ My current focus is Kubernetes and cloud native application development.
 - My [blog](https://bartr.co/blog) (don't get excited - I'm a terrible blogger)
 - [Linked In](https://bartr.co/linkedin)
 - Twitter @bartr (I'm not much better at tweeting ...)
+
+### bartr.co
+
+In case you're wondering why all the links start with [bartr.co](https://bartr.co/blog/tech)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartr)](https://github.com/bartr/bartr)
 
