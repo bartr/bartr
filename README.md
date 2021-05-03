@@ -1,4 +1,4 @@
-### Hi there 👋
+## @bartr
 
 I am a Principal Software Engineering Manager in Microsoft Commercial Software Engineering (CSE) based in Austin, TX.
 
