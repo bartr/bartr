@@ -6,7 +6,7 @@
 
 ## Startups
 
-- I am active in the Austin [startup](https://bartr.co/cf) community and on [AngelList](https://angel.co)
+- I am active in the Austin [startup](https://bartr.co/cf) community and on [AngelList](https://bartr.co/angellist)
 - I am a Partner at [Capital Factory](https://bartr.co/cf)
 - I am on the Board of Directors at [Still Austin Whiskey Co](https://bartr.co/still) representing the Series A shareholders
 - I was an early investor in [Recursion Pharmaceuticals](https://bartr.co/rxrx)
