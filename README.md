@@ -24,11 +24,11 @@ My current focus is Kubernetes and cloud native application development.
 
 ### Links
 
-- My [blog](https://bartr.co/blog) (don't get excited - I'm a terrible blogger)
 - [Linked In](https://bartr.co/linkedin)
+- My [blog](https://bartr.co/blog) (don't get excited - I'm a terrible blogger)
 - Twitter @bartr (I'm not much better at tweeting ...)
 
-### bartr.co
+### [bartr.co](https://bartr.co)
 
 In case you're wondering why all the links start with [bartr.co](https://bartr.co/blog/tech)
 
