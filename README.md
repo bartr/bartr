@@ -6,15 +6,15 @@ CSE helps Microsoft's largest customers with all things [Azure](https://bartr.co
 
 My current focus is Kubernetes and cloud native [application development](https://bartr.co/devblogs)
 
-### Startups
+## Startups
 
-- I'm active in the Austin Startup community
-- I'm a Partner at [Capital Factory](https://bartr.co/cf)
-- I'm on the Board of Directors at [Still Austin Whiskey Co](https://bartr.co/still) representing the Series A shareholders
+- I am active in the Austin Startup community
+- I am a Partner at [Capital Factory](https://bartr.co/cf)
+- I am on the Board of Directors at [Still Austin Whiskey Co](https://bartr.co/still) representing the Series A shareholders
 - I was an early investor in [Recursion Pharmaceuticals](https://bartr.co/rxrx)
   - I am celebrating their recent [IPO](https://bartr.co/rxrx-ipo)!
 
-### Current Projects
+## Current Projects
 
 - [Using](https://bartr.co/blog/fb-cri) Fluent Bit with `containerd` and `CRI-O`
 - [End-to-end](https://bartr.co/blog/fbla) demonstration of using Fluent Bit with `Azure Log Analytics`
@@ -22,15 +22,15 @@ My current focus is Kubernetes and cloud native [application development](https:
 - Run a Kubernetes [developer cluster](https://bartr.co/akdc-kind) in `GitHub Codespaces`
 - [Tinybench](https://bartr.co/tinybench) is a k8s app for creating and measuring network performance
 
-### Links
+## Links
 
 - [Linked In](https://bartr.co/linkedin)
 - My [blog](https://bartr.co/blog) (don't get excited - I'm a terrible blogger)
 - Twitter @bartr (I'm not much better at tweeting ...)
 - CSE Engineering [Playbook](https://bartr.co/playbook)
 
-### [bartr.co](https://bartr.co)
+## [bartr.co](https://bartr.co)
 
-In case you're wondering why all the links start with [bartr.co](https://bartr.co/blog/tech)  Unicorn in the making?
+> In case you're wondering why all the links start with [bartr.co](https://bartr.co/blog/tech)  Unicorn in the making?
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartr)](https://github.com/bartr/bartr)
