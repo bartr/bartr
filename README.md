@@ -18,7 +18,7 @@ My current focus is Kubernetes and cloud native application development.
 
 - My [blog](https://bartr.co/blog) (don't get excited - I'm a terrible blogger)
 - [Linked In](https://bartr.co/linkedin)
-- Twitter @bartr
+- Twitter @bartr (I'm not much better at tweeting ...)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartr)](https://github.com/bartr/bartr)
 
