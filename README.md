@@ -1,10 +1,8 @@
 # @bartr
 
-I am a Principal Software Engineering Manager in Microsoft [Commercial Software Engineering](https://bartr.co/cse) (CSE) based in Austin, TX
-
-CSE helps Microsoft's largest customers with all things [Azure](https://bartr.co/azure)
-
-My current focus is Kubernetes and cloud native [application development](https://bartr.co/devblogs)
+- I am a Principal Software Engineering Manager in Microsoft [Commercial Software Engineering](https://bartr.co/cse) (CSE) based in Austin, TX
+- CSE helps Microsoft's largest customers with all things [Azure](https://bartr.co/azure)
+- My current focus is Kubernetes and cloud native [application development](https://bartr.co/devblogs)
 
 ## Startups
 
