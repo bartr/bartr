@@ -27,8 +27,6 @@
 - Twitter @bartr (I'm not much better at tweeting ...)
 - CSE Engineering [Playbook](https://bartr.co/playbook)
 
-## [bartr.co](https://bartr.co)
-
-> In case you're wondering why all the links start with [bartr.co](https://bartr.co/blog/tech)  Unicorn in the making?
+> In case you're wondering why all the links start with [bartr.co](https://bartr.co)  [Unicorn](https://bartr.co/blog/tech) in the making?
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartr)](https://github.com/bartr/bartr)
