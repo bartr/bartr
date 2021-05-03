@@ -4,7 +4,7 @@ I am a Principal Software Engineering Manager in Microsoft [Commercial Software 
 
 CSE helps Microsoft's largest customers with all things [Azure](https://bartr.co/azure)
 
-My current focus is Kubernetes and cloud native application development
+My current focus is Kubernetes and cloud native [application development](https://bartr.co/devblogs)
 
 ### Startups
 
