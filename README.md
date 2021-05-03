@@ -10,7 +10,7 @@ My current focus is Kubernetes and cloud native [application development](https:
 
 - I'm active in the Austin Startup community
 - I'm a Partner at [Capital Factory](https://bartr.co/cf)
-- I'm on the board of directors at [Still Austin Whiskey Co](https://bartr.co/still)
+- I'm on the Board of Directors at [Still Austin Whiskey Co](https://bartr.co/still) representing the Series A shareholders
 - I was an early investor in [Recursion Pharmaceuticals](https://bartr.co/rxrx)
   - I am celebrating their recent [IPO](https://bartr.co/rxrx-ipo)!
 
@@ -31,6 +31,6 @@ My current focus is Kubernetes and cloud native [application development](https:
 
 ### [bartr.co](https://bartr.co)
 
-In case you're wondering why all the links start with [bartr.co](https://bartr.co/blog/tech)
+In case you're wondering why all the links start with [bartr.co](https://bartr.co/blog/tech)  Unicorn in the making?
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartr)](https://github.com/bartr/bartr)
