@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a Principal Software Engineering Manager in Microsoft Commercial Software Engineering (CSE) based in Austin, TX.
+
+CSE helps Microsoft's largest customers with all things Azure.
+
+My current focus is Kubernetes and cloud native application development.
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartr)](https://github.com/bartr/bartr)
+
 <!--
 **bartr/bartr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
