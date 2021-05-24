@@ -31,4 +31,4 @@
 >
 > [Unicorn](https://bartr.co/blog/tech) in the making?
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bartr)](https://github.com/bartr/bartr)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&count_private=true&username=bartr)](https://github.com/bartr/bartr)
