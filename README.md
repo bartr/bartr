@@ -16,6 +16,7 @@
 
 ## Current Projects
 
+- How to create a [GitHub home page](https://github.com/bartr/bartr)
 - [Using dotfiles](https://bartr.co/dotfiles) with `GitHub Codespaces`
 - [Using](https://bartr.co/blog/fb-cri) Fluent Bit with `containerd` and `CRI-O`
 - [End-to-end](https://bartr.co/blog/fbla) demonstration of using Fluent Bit with `Azure Log Analytics`
