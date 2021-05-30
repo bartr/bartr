@@ -14,6 +14,7 @@
 
 ## Current Projects
 
+- [Using dotfiles](https://bartr.co/dotfiles) with `GitHub Codespaces`
 - [Using](https://bartr.co/blog/fb-cri) Fluent Bit with `containerd` and `CRI-O`
 - [End-to-end](https://bartr.co/blog/fbla) demonstration of using Fluent Bit with `Azure Log Analytics`
 - [IMDb](https://bartr.co/blog/imdb) document modeling in Cosmos DB
