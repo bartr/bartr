@@ -9,6 +9,8 @@
 - I am active in the Austin [startup](https://bartr.co/cf) community and on [AngelList](https://bartr.co/angellist)
 - I am a Partner at [Capital Factory](https://bartr.co/cf)
 - I am on the Board of Directors at [Still Austin Whiskey Co](https://bartr.co/still) representing the Series A shareholders
+  - Our Straight Bourbon Whiskey, `The Musician` just won [Double Gold](https://bartr.co/gold) at the San Francisco World Spirits Competition
+  - You can enjoy `The Musician` by odering [online](https://bartr.co/shop)
 - I was an early investor in [Recursion Pharmaceuticals](https://bartr.co/rxrx)
   - I am celebrating their recent [IPO](https://bartr.co/rxrx-ipo)!
 
