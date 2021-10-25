@@ -21,8 +21,8 @@
 - [Using](https://bartr.co/blog/fb-cri) Fluent Bit with `containerd` and `CRI-O`
 - [End-to-end](https://bartr.co/blog/fbla) demonstration of using Fluent Bit with `Azure Log Analytics`
 - [IMDb](https://bartr.co/blog/imdb) document modeling in Cosmos DB
-- Run a Kubernetes [developer cluster](https://bartr.co/akdc-kind) in `GitHub Codespaces`
-- [Tinybench](https://bartr.co/tinybench) is a k8s app for creating and measuring network performance
+- Run a Kubernetes [developer cluster](https://github.com/cse-labs/kubernetes-in-codespaces) in `GitHub Codespaces`
+- [Tinybench](https://github.com/bartr/tinybench) is a k8s app for creating and measuring network performance
 
 ## Links
 
@@ -35,7 +35,4 @@
 >
 > [Unicorn](https://bartr.co/blog/tech) in the making?
 
-<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&count_private=true&username=bartr)](https://github.com/bartr/bartr)
--->
-
