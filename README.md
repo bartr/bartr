@@ -9,7 +9,7 @@
 - I am a Partner at [Capital Factory](https://bartr.dev/cf)
 - I am on the Board of Directors at [Still Austin Whiskey Co](https://bartr.dev/still) representing the Series A shareholders
   - Our Straight Bourbon Whiskey, `The Musician` just won [Double Gold](https://bartr.dev/gold) at the San Francisco World Spirits Competition
-  - You can enjoy `The Musician` by odering [online](https://bartr.dev/shop)
+  - You can enjoy `The Musician` by ordering [online](https://bartr.dev/shop)
 - I was an early investor in [Recursion Pharmaceuticals](https://bartr.dev/rxrx) which IPOed recently
 
 ## Current Projects
@@ -30,9 +30,9 @@
 - My [blog](https://bartr.dev/blog)
 - Twitter [@bartr](https://bartr.dev/twitter)
 
-> In case you're wondering why all the links start with [bartr.dev](https://bartr.dev)
+> In case you're wondering why all the links start with [bartr.dev](https://bartr.dev/blog/tech)
 >
-> [Unicorn](https://bartr.dev/blog/tech) in the making?
+> Unicorn in the making? :)
 
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&count_private=true&username=bartr)](https://github.com/bartr/bartr)
