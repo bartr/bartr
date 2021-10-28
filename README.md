@@ -30,7 +30,6 @@
 - [Linked In](https://bartr.dev/linkedin)
 - My [blog](https://bartr.dev/blog)
 - Twitter [@bartr](https://bartr.dev/twitter)
-- CSE Engineering [Playbook](https://bartr.dev/playbook)
 
 > In case you're wondering why all the links start with [bartr.dev](https://bartr.dev)
 >
