@@ -1,7 +1,6 @@
 # @bartr
 
-- I am a Principal Software Engineering Manager in Microsoft [Commercial Software Engineering](https://bartr.dev/cse) (CSE) based in Austin, TX
-- CSE helps Microsoft's largest customers with all things [Azure](https://bartr.dev/azure)
+- I am a Principal Software Engineering Manager at Microsoft based in Austin, TX
 - My current focus is Kubernetes and cloud native application development
 
 ## Startups
@@ -39,4 +38,4 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&count_private=true&username=bartr)](https://github.com/bartr/bartr)
 -->
 
-#Microsoft #SoftwareEngineer #Kubernetes #Docker #CosmosDB #dotnet #rust #CodeSpaces #GitHub
+#Microsoft #SoftwareEngineer #Kubernetes #Docker #CloudNative #CosmosDB #dotnet #rust #CodeSpaces #GitHub
