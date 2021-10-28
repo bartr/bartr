@@ -15,14 +15,15 @@
 
 ## Current Projects
 
+- Hands-on-Lab: Create an [Envoy WebAssembly in Rust](https://bartr.dev/wasm)
+- Hands-on-Lab: Run a Kubernetes [developer cluster](https://bartr.dev/kcs) in `GitHub Codespaces`
+- Build a C# CLI using the new [System.Commandline](https://bartr.dev/scl) assembly
+- Kubernetes: [Using](https://bartr.dev/blog/fb-cri) Fluent Bit with `containerd` and `CRI-O`
+- Kubernetes: [End-to-end](https://bartr.dev/blog/fbla) demonstration of using Fluent Bit with `Azure Log Analytics`
+- Kubernetes: [Tinybench](https://bartr.dev/tinybench) is a k8s app for creating and measuring network performance
+- CosmosDB: [IMDb](https://bartr.dev/blog/imdb) document modeling in Cosmos DB
 - How to create a [GitHub home page](https://bartr.dev/gh-home)
 - [Using dotfiles](https://bartr.dev/dotfiles) with `GitHub Codespaces`
-- [Using](https://bartr.dev/blog/fb-cri) Fluent Bit with `containerd` and `CRI-O`
-- [End-to-end](https://bartr.dev/blog/fbla) demonstration of using Fluent Bit with `Azure Log Analytics`
-- [IMDb](https://bartr.dev/blog/imdb) document modeling in Cosmos DB
-- Run a Kubernetes [developer cluster](https://bartr.dev/kcs) in `GitHub Codespaces`
-- [Tinybench](https://bartr.dev/tinybench) is a k8s app for creating and measuring network performance
-- Build a C# CLI using the new [System.Commandline](https://bartr.dev/scl) assembly
 
 ## Links
 
