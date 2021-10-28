@@ -38,3 +38,5 @@
 <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&count_private=true&username=bartr)](https://github.com/bartr/bartr)
 -->
+
+#Microsoft #SoftwareEngineer #Kubernetes #Docker #CosmosDB #dotnet #rust #CodeSpaces #GitHub
