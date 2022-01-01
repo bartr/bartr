@@ -10,7 +10,6 @@
 - I am on the Board of Directors at [Still Austin Whiskey Co](https://bartr.dev/still) representing the Series A shareholders
   - Our Straight Bourbon Whiskey, `The Musician` just won [Double Gold](https://bartr.dev/gold) at the San Francisco World Spirits Competition
   - You can enjoy `The Musician` by ordering [online](https://bartr.dev/shop)
-- I was an early investor in [Recursion Pharmaceuticals](https://bartr.dev/rxrx) which IPOed recently
 
 ## Current Projects
 
