@@ -1,6 +1,6 @@
 # @bartr
 
-- I am a Principal Software Engineering Manager at Microsoft based in Austin, TX
+- I am a Principal Software Engineer at Microsoft based in Austin, TX
 - My current focus is Kubernetes and cloud native application development
 
 ## Startups
@@ -33,8 +33,6 @@
 >
 > Unicorn in the making? :)
 
-<!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?include_all_commits=true&count_private=true&username=bartr)](https://github.com/bartr/bartr)
--->
 
-#Microsoft #SoftwareEngineer #Kubernetes #Docker #CloudNative #CosmosDB #dotnet #rust #CodeSpaces #GitHub
+#Microsoft #SoftwareEngineer #Kubernetes #Docker #CloudNative #CosmosDB #dotnet #rust #golang #CodeSpaces #GitHub
