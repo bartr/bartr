@@ -1,7 +1,7 @@
 # @bartr
 
 - I am a Principal Software Engineer at Microsoft based in Austin, TX
-- My current focus is Kubernetes and cloud native development
+- My current focus is Kubernetes at scale, Kubernetes on the Edge, and cloud native development
 
 ## Startups
 
